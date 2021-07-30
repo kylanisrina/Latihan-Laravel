@@ -1,0 +1,29 @@
+
+html,body {
+    background: rgb(14, 13, 13);
+    height: 100%;
+    width: 100%;
+}   
+html,body {
+    background: rgb(20, 20, 20) ta;
+    height: 100%;
+    width: 100%;
+}
+.box {
+    width: 85px;
+    height: 85px;
+    background: #ff0909;
+    box-shadow: 0px 0px 15px #ff0909;
+}
+.costum-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    /* flex-direction: column; */
+}
+/* 
+.box:hover {
+    background: #05f7c2;
+    box-shadow: 0px 0px 15px #58e407;
+} */
